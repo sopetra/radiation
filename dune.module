@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: radiation
+Version: 1.0
+Maintainer: jurak@math.hr
+# Required build dependencies
+Depends: dune-pdelab dune-uggrid
+# Optional build dependencies
+#Suggests:
